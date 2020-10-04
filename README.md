@@ -8,6 +8,6 @@ Also video walking1.mp4 is included howver you can substitute with your own... b
 
 __________________________
 
-Compare openCV with YOLO Object Detections/DeepSort Object Tracking in Google Colab! Run DeepSort Object tracking on Colab GPU with YOLOv4 Object Detections!
+Compare yolov3 with openCV and yolov4 Object Detections/DeepSort Object Tracking in Google Colab! Run DeepSort Object tracking on Colab GPU with YOLOv4 Object Detections!
 
 open Google-Colab jupiter notebook here; https://colab.research.google.com/drive/14s2o3ytoor8rDoU7ez6qo1S47iPGlj8u#scrollTo=0I_9W7jS1iFv
