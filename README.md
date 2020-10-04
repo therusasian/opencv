@@ -4,9 +4,11 @@ Included in download the config file for YOLO and COCO dataset. You will have to
 
 https://pjreddie.com/media/files/yolov3.weights
 
-Also video walking1.mp4 is included however you can substitute with your own... by substituting .mp4 file in two places in the .py or .ipynb file.
+Also video walking1.mp4 is included however you can substitute with your own... by changing .mp4 file in two places in the .py or .ipynb file.
 
 __________________________
+
+# DeepSort_yolov4
 
 Compare yolov3 with openCV and yolov4 Object Detections/DeepSort Object Tracking in Google Colab! Run DeepSort Object tracking on Colab GPU with YOLOv4 Object Detections!
 
